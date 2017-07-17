@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Tiere>
+  <Tier>
+    <RegNummer>T-0142-NC22</RegNummer>
+    <Bezeichnung>Affe</Bezeichnung>
+    <Name>Emil</Name>
+    <Geschlecht>Männlich</Geschlecht>
+    <Art>Säugetier</Art>
+    <AnzahlBeine>2</AnzahlBeine>
+    <Gewicht Einheit="Kg">42.4</Gewicht>
+    <Vegetarier>false</Vegetarier>
+    <Geburtstag>2013-04-17</Geburtstag>
+  </Tier>
+  <Tier>
+    <RegNummer>T-0002-NC66</RegNummer>
+    <Bezeichnung>Zebra</Bezeichnung>
+    <Name>Bärbel</Name>
+    <Geschlecht>Weiblich</Geschlecht>
+    <Art>Säugetier</Art>
+    <AnzahlBeine>4</AnzahlBeine>
+    <Gewicht Einheit="Kg">390</Gewicht>
+    <Vegetarier>true</Vegetarier>
+    <Geburtstag>1996-02-05</Geburtstag>
+  </Tier>
+  <Tier>
+    <RegNummer>T-0003-NC88</RegNummer>
+    <Bezeichnung>Löwe</Bezeichnung>
+    <Name>Bernd</Name>
+    <Geschlecht>Männlich</Geschlecht>
+    <Art>Säugetier</Art>
+    <AnzahlBeine>4</AnzahlBeine>
+    <Gewicht Einheit="Kg">195</Gewicht>
+    <Vegetarier>false</Vegetarier>
+    <Geburtstag>1999-08-22</Geburtstag>
+  </Tier>
+  <Tier>
+    <RegNummer>T-0004-NC99</RegNummer>
+    <Bezeichnung>Rabe</Bezeichnung>
+    <Name>Rudi</Name>
+    <Geschlecht>Männlich</Geschlecht>
+    <Art>Vogel</Art>
+    <AnzahlBeine>2</AnzahlBeine>
+    <Gewicht Einheit="g">1254</Gewicht>
+    <Vegetarier>false</Vegetarier>
+    <Geburtstag>2015-03-29</Geburtstag>
+  </Tier>
+</Tiere>
